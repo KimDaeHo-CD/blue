@@ -52,6 +52,10 @@ nav a {
   cursor: pointer;
 }
 
+button:hover {
+  background-color: tomato;
+}
+
 .info {
   padding: 80px 20px;
   text-align: center;
